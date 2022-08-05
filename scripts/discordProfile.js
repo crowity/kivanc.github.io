@@ -6,7 +6,7 @@ socket.addEventListener("open", () => {
         JSON.stringify({
             op: 2,
             d: {
-                "subscribe_to_id": "518362974411292691"
+                "subscribe_to_id": "964491273438371910"
             },
         }),
     );
